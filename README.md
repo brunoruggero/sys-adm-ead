@@ -10,12 +10,6 @@ cd my-project/
 ```
 
 
-Alterne para a branch laravel 9.x
-```sh
-git checkout laravel-9-com-php-8
-```
-
-
 Remova o versionamento (opcional)
 ```sh
 rm -rf .git/
